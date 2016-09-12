@@ -10,6 +10,7 @@ namespace Is_It_Me
     {
         static void Main(string[] args)
         {
+            Console.Write("Is it Me?");
         }
     }
 }
